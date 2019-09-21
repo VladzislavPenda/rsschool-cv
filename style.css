@@ -3,3 +3,7 @@ h1{
     padding: 20px;
     border-bottom: 1px solid black;
 }
+.box{
+    max-width: 1024px;
+    margin: 0 auto;
+}

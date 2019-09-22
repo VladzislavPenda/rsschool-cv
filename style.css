@@ -1,9 +1,22 @@
 h1{
     text-align: center;
-    padding: 20px;
-    border-bottom: 1px solid black;
+    padding: 50px;
+}
+body{
+    color: black;
+
+}
+h2{
+    text-align: center;
+}
+p{
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
 }
 .box{
     max-width: 1024px;
+    max-height: 768px;
     margin: 0 auto;
+    background-image: url(C:/Users/User/rsschool-cv/back.jpg);
 }
